@@ -1,0 +1,9 @@
+numpy
+h5py
+requests
+tqdm
+zstandard
+tiktoken
+torch
+torchvision
+torchaudio
